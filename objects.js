@@ -43,3 +43,8 @@ const another={...circle}||Object.assign({},circle)
 console.log(another)
 
 //MATH OBJECT
+//string
+const message = 'hello'
+const anotherMessage=new String('hi')
+console.log(typeof message)
+console.log(typeof anotherMessage)
