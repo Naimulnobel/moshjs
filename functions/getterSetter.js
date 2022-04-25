@@ -12,3 +12,4 @@ const person = {
 };
 person.fullName = "naimul nobel";
 //getter
+console.log(person.fullName);
